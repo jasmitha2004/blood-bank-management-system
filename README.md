@@ -51,10 +51,7 @@ The goal is to ensure quick response times, reduce manual errors, and improve op
 
 ## Environment Setup
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/suraj-savle/blood-bank-management-system.git
+t
 ```
 
 ### Backend Setup

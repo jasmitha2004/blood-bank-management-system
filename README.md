@@ -49,38 +49,10 @@ The goal is to ensure quick response times, reduce manual errors, and improve op
 * JWT Authentication
 * bcrypt for password hashing
 
-## Environment Setup
 
-t
+
 ```
 
-### Backend Setup
-
-```bash
-cd backend
-npm install
-```
-
-Create a `.env` file:
-
-```bash
-MONGO_URI=your_mongo_uri
-JWT_SECRET=your_jwt_secret
-PORT=5000
-```
-
-Start the backend server:
-
-```bash
-npm start
-```
-
-### Frontend Setup
-
-```bash
-cd ../frontend
-npm install
-npm run dev
 ```
 
 **Login Page**
